@@ -13,6 +13,7 @@ defmodule PhxHealthcheck.Application do
       PhxHealthcheckWeb.Telemetry,
       # Start the PubSub system
       {Phoenix.PubSub, name: PhxHealthcheck.PubSub},
+      PhxHealthcheck.Healthcheck.Supervisor,
       # Start the Endpoint (http/https)
       PhxHealthcheckWeb.Endpoint
       # Start a worker by calling: PhxHealthcheck.Worker.start_link(arg)
