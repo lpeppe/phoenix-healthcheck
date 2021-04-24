@@ -1,4 +1,5 @@
 # PhxHealthcheck
+This repository contains the project explained in this [arcticle](https://lucapeppe31.medium.com/how-to-easily-create-a-healthcheck-endpoint-for-your-phoenix-app-the-elixir-way-d0eeb0b3a271).
 
 To start your Phoenix server:
 
@@ -7,13 +8,3 @@ To start your Phoenix server:
   * Start Phoenix endpoint with `mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
